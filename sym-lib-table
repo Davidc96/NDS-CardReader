@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "NDS Connector")(type "KiCad")(uri "${KIPRJMOD}/ndspads-connector.kicad_sym")(options "")(descr ""))
+)
